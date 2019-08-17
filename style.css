@@ -102,7 +102,7 @@ body {
       border: 3px solid #f1f1f1;
       top: 50%;
       right: 50%;
-     width: 80%;
+     width: 85%;
       text-align: center;  
     }
     
@@ -133,7 +133,9 @@ body {
        background-image: url("https://wallpaperplay.com/walls/full/e/b/0/206143.jpg");
      background-repeat: no-repeat;
       padding: 15%;
+      padding-right: 20%;
       filter: sepia(30%);
+      margin: 0;
     }
 
     /* width */
